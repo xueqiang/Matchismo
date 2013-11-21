@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bd45e37-12ee-4944-a7d3-4a876fa8ac70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Images.xcassets/cardfront.imageset/blank card hi-res.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Images.xcassets/cardfront.imageset/blank card round corner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Images.xcassets/cardback.imageset/stanford tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Images.xcassets/cardback.imageset/stanford.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/Card.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/Card.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/CardMatchingGame.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/CardMatchingGame.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Images.xcassets/cardback.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Images.xcassets/cardfront.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/Deck.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/Deck.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/PlayingCard.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/PlayingCard.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/PlayingCardDeck.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matchismo/Model/PlayingCardDeck.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Matchismo/CardGameViewController.m" afterPath="$PROJECT_DIR$/Matchismo/CardGameViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Matchismo/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/Matchismo/Base.lproj/Main.storyboard" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Matchismo.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Matchismo.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Matchismo.iws" />
     <ignored path=".idea/workspace.xml" />
